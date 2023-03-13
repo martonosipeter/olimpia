@@ -6,6 +6,27 @@ h1 {
     text-align: center;
 }
 #karika{
-    width: 350px;
-    height: 300px;
+    width: 450px;
+    height: 250px;
+    margin-left: auto;
+    margin-right:auto;
+    display: block;
+}
+#kar{
+    margin:auto;
+    display: block;
+    width:50%;
+    font-size:small;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+p{
+
+    text-align: justify;
+
+}
+#regi{
+
+    position:absolute;
+    
 }
