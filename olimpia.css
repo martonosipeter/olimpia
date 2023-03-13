@@ -28,5 +28,24 @@ p{
 #regi{
 
     position:absolute;
-    
+    top: 600px;
+    width: 300px;
+    height: 300px;
+    left: 100px;
+}
+#uj{
+
+    position:absolute;
+    top: 600px;
+    width: 500px;
+    height: 300px;
+    left: 730px;
+}
+#mr{
+
+    position:absolute;
+    top: 600px;
+    width: 300px;
+    height: 300px;
+    left: 1400px;
 }
