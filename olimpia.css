@@ -23,6 +23,7 @@ h1 {
 p{
 
     text-align: justify;
+    font-size: 17px;
 
 }
 #regi{
@@ -51,14 +52,14 @@ p{
 }
 #egy{
     position: absolute;
-    top: 500px;
+    top: 550px;
     width: 300px;
     height: 300px;
     left: 100px;
 }
 #keto{
     position:absolute;
-    top: 500px;
+    top: 550px;
     width: 500px;
     height: 300px;
     left: 730px;
@@ -67,7 +68,7 @@ p{
 }
 #harom{
     position:absolute;
-    top: 500px;
+    top: 550px;
     width: 300px;
     height: 300px;
     left: 1400px;

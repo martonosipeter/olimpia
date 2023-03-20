@@ -1,0 +1,22 @@
+body{
+    background-color: antiquewhite;
+}
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
+}
+h2 {
+    font-size: 28px;
+}
+p{
+
+    text-align: justify;
+    font-size: 20px;
+}
+#lista{
+    font-size: 30px;
+    position: absolute;
+    left: 250px;
+    top: 200px;
+}
