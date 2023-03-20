@@ -31,3 +31,26 @@ p{
 
 }
 
+button{
+    width: 150px;
+    height: 50px;
+    margin: 15px;
+    border: 2px solid black;
+    outline: none;
+    border-radius: 30px;
+    background-color: red;
+    color: white;
+    font-size: 15px;
+    cursor: pointer;
+    box-shadow: inset 0 0 0 0 brown;
+    transition: ease-out 0.6s;
+}
+button:hover{
+    box-shadow: inset 150px 0 0 0 brown;
+    color: black;
+}
+#gomb{
+    position: absolute;
+    left: 30px;
+    bottom: 20px;
+}
