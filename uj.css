@@ -5,18 +5,29 @@ body{
 h1 {
     text-align: center;
     text-decoration: underline;
+    font-family:fantasy ;
 }
 h2 {
     font-size: 28px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 p{
 
     text-align: justify;
     font-size: 20px;
+    font-family: cursive;
 }
 #lista{
     font-size: 30px;
     position: absolute;
-    left: 250px;
-    top: 200px;
+    left: 550px;
+    top: 230px;
+    font-family: cursive;
 }
+#athen{
+    position: absolute;
+    left: 1000px;
+    top: 300px;
+
+}
+
