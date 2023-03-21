@@ -20,13 +20,22 @@ p{
 #lista{
     font-size: 30px;
     position: absolute;
-    left: 550px;
+    left: 200px;
     top: 230px;
     font-family: cursive;
 }
+
+#sport{
+    font-size: 30px;
+    position: absolute;
+    left: 850px;
+    top: 230px;
+    font-family: cursive;
+}
+
 #athen{
     position: absolute;
-    left: 1000px;
+    left: 1300px;
     top: 300px;
 
 }
