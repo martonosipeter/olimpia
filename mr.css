@@ -34,6 +34,11 @@ button:hover{
 }
 #gomb{
     position: absolute;
-    left: 30px;
+    left: 860px;
     bottom: 20px;
+}
+#kep{
+    float: right;
+    width: 500px;
+    height: 400px;
 }
